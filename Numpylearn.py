@@ -5,5 +5,5 @@ import random
 x = np.array(20)
 y = np.array(20)
 plt.plot(x,y)
-plt.show()
+
 
