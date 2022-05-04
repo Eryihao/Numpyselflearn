@@ -1,7 +1,9 @@
 import numpy as np
 from matplotlib import pyplot as plt
 import random
-import numpy
 
-a = np.arange(1,9,1)
-print (a)
+x = np.array(20)
+y = np.array(20)
+plt.plot(x,y)
+plt.show()
+
